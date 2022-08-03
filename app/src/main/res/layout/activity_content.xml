@@ -12,6 +12,10 @@
             android:id="@+id/toolbar"
             layout="@layout/toolbar" />
 
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/love2"/>
         <TextView
             android:layout_marginTop="20dp"
             android:id="@+id/noidung"

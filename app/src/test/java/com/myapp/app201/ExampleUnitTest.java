@@ -1,4 +1,4 @@
-package com.myapp.app201;
+package com.myapp.firebaseexample;
 
 import org.junit.Test;
 
