@@ -1,5 +1,23 @@
+Screenshot_20220722_143248.png  
+<img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/Screenshot_20220722_143248.png" />   
+Screenshot_20220722_143308.png  
+<img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/Screenshot_20220722_143308.png" />   
+Screenshot_20220722_143315.png  
+<img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/Screenshot_20220722_143315.png" />   
+Screenshot_20220804_011100.png  
+<img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/Screenshot_20220804_011100.png" />   
+Screenshot_20220804_011119.png  
+<img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/Screenshot_20220804_011119.png" />   
+Screenshot_20220804_011132.png  
+<img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/Screenshot_20220804_011132.png" />   
+app/src/main/ic_launcher-playstore.png  
+<img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/app/src/main/ic_launcher-playstore.png" />   
+app/src/main/res/drawable-v24  
+<img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/app/src/main/res/drawable-v24" />   
 app/src/main/res/drawable-v24/ic_launcher_foreground.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" />   
+app/src/main/res/drawable  
+<img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/app/src/main/res/drawable" />   
 app/src/main/res/drawable/custom_background.xml  
 <img src="https://github.com/azuredragon3000/googleconsole_truyentinhyeu_firebaseexample/blob/master/app/src/main/res/drawable/custom_background.xml" />   
 app/src/main/res/drawable/ic_launcher_background.xml  
